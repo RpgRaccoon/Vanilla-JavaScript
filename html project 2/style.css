@@ -1,0 +1,42 @@
+.subscribe{
+    background-color: red;
+    padding: 8px 14px;
+    border-radius: 5px;
+    color: white;
+    font-size: 16px;
+    font-weight: bold;
+    text-decoration: none;
+    border: none;
+}
+.subscribe:hover{
+    background-color: darkred;
+}
+.join{
+    background-color: white;
+    padding: 6px 13px;
+    border-radius: 5px;
+    color: blue;
+    font-size: 16px;
+    font-weight: bold;
+    text-decoration: none;
+    border: blue 2px solid;
+    transition: background-color 0.15s;
+}
+.join:hover{
+    background-color: blue;
+    color: white;
+}
+.tweet{
+    background-color: rgb(32, 202, 202);
+    padding: 6px 13px;
+    border-radius: 5px;
+    color: white;
+    font-size: 16px;
+    font-weight: bold;
+    text-decoration: none;
+    border: rgb(32, 202, 202) 2px solid;
+    transition: background-color 0.15s;
+}
+.tweet:hover{
+   box-shadow: 5px 3px 15px rgba(0, 0, 0, 0.5);
+}
